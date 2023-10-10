@@ -1,0 +1,1 @@
+Se creo un programa donde dependiendo el numero de paquetes y destinos da el factorial.
